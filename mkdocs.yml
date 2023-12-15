@@ -1,1 +1,74 @@
-site_name: My Docs
+site_name: Econometrics Versity
+site_description: Quant Coding Versity for Econometrics with Python
+site_author: Dr Saad Laouadi
+site_url: https://qcversity.github.io/python-versity
+
+# nav:
+#   - Introduction: index.md
+#   - Table of Contents: toc.md
+
+nav:
+  - Introduction: index.md
+  - Table of Contents: toc.md
+  - Introduction to Econometrics:
+      - "IntroductionToEconometrics/Introduction to Econometrics.md"
+  - Python Crash Course:
+      - "PythonCourse/Python Setup.md"
+      - "PythonCourse/PythonDataTypes.md"
+  - Data Manipulation with Python:
+      - "DataManipulation/Data Manipulation.md"
+  - Linear Algebra Review:
+      - "LinAlgebraEssentials/Introduction.md"
+
+
+theme:
+  name: null
+  custom_dir: theme/
+
+extra:
+  article_nav_top: false
+  article_nav_bottom: false
+  history_buttons: false
+  version: 1.0.0
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/qcversity
+
+repo_name: qcversity/econometrics-versity
+repo_url: https://github.com/qcversity/econometrics-versity
+
+
+# - Descriptive Statistics in Python:
+  #     -
+  # - Probability Theory:
+  #     -
+  # - Simple Linear Regression:
+  #     -
+  # - Multiple Linear Regression:
+  #     -
+  # - Regression with Categorical Variables:
+  #     -
+  # - Regression Diagnostics:
+  #     -
+  # - Simultaneous Equation Models:
+  #     -
+  # - Enodogenous Model:
+  #     -
+  # - Time Series Analysis:
+  #     -
+  # - Panel Data Analysis:
+  #     -
+  # - Non-Linear Regression Models:
+  #     -
+  # - Discrete Choice Models:
+  #     -
+  # - Survival Models:
+  #     -
+  # - Bayesian Analysis:
+  #     -
+  # - Machine Learning for Econometrics:
+  #     -
+  # - Simulation Techniques:
+  #     -
+  # - Case Studies in Econometrics:
+  #     -
